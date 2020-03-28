@@ -1,1 +1,4 @@
 To do-
+
+Learn the MERN stack
+News api using Node.js
